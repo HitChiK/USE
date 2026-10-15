@@ -7,7 +7,7 @@
 
 파일명은 0을 붙이지 않는다. `1.webp`, `10.webp`, `103.webp`
 
-`CEN`, `DKN`, `JOE`, `MRK`, `YOR`는 파일명 앞에 복장코드를 붙인다. `bs1.webp`, `sc13.webp`, `nd303.webp`
+`CEN`, `DKN`, `JOE`, `MG`, `MRK`, `YOR`는 파일명 앞에 복장코드를 붙인다. `bs1.webp`, `sc13.webp`, `nd303.webp`
 (평상복=bs/교복=sc/비키니=bk/잠옷=pj/바니걸=bn/차이나 드레스=cn/부르마=br/알몸=nd)
 
 ## 폴더
@@ -20,6 +20,7 @@
 | JOE | 352 |
 | KU | 95 |
 | LL | 94 |
+| MG | 352 |
 | MRK | 352 |
 | NO | 103 |
 | RE | 94 |
